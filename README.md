@@ -5,7 +5,9 @@ An automated system designed to streamline your development workflow: it intelli
 
 ### Requirements
 Python 3.11.0 or greater
+
 Docker Desktop
+
 DockerHub credentials
 
 ### Usage
